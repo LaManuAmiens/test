@@ -5,8 +5,13 @@ body {
 h1 {
 >>>>>>> e420a9366b925faae53cba060a69c5ed62cb19b2
   font-family: 'roboto', sans-serif;
+<<<<<<< HEAD
 =======
 body{
   background-color: black;
 >>>>>>> 68c34e367f83bc383fb25500af9823a74365243b
+=======
+  color: red;
+  font-size: 200%;
+>>>>>>> origin/Nico2
 }
